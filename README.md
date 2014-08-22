@@ -18,6 +18,12 @@ inform each other to produce more effective and creative solutions to both teach
 
 ## How will you deal with varying numbers of participants in your session?
 
+*5 participants* - a short presentation followed by a group discussion 
+
+*15 participants* - a short presentation followed by a group discussion
+
+*50 participatns* - a longer presentation followed by a Q&A session
+
 ## What do you see as outcomes after the festival? How will you and your participants take the learning and activities forward? 
 
 Ideally, participants in this session will be imbued with a greater understanding of how the humanities can influence developer and engineering communites. This understanding should inspire and encourage them to diversify their communities and pursuits, as well as evangelize such diversification. Specific examples could be getting involved with local universities' humanities programs, starting interdisciplinary conferences and meetups, and building open source curriculum targeted at people with humanities backgrounds.
