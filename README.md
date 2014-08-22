@@ -15,6 +15,24 @@ inform each other to produce more effective and creative solutions to both teach
 
 ## How do you see that working?
 
+- _Introduction to Coding for the Humanities program_ (Jan)
+- _Introduction to Digital Wesleyan and Flatiron School programs_ (Ashley)
+
+- Towards a more technical humanities student (Jan)
+  
+  This section will explore the unique characteristics of a humanities student, their specific strengths and weaknesses, and the implications there in for pedagological approaches to teaching programming. 
+
+- _Towards a more interdisciplinary engineer_ (Ashley)
+
+  This section will explore how thought-leaders from the humanities and sciences can and should influence engineering tools, workflows, and communities. 
+
+- _Where we are now_ (Ashley)
+
+  This section will survey a sample of current approaches to teaching programming and will critically engage with their effectiveness for certain types of communities.
+
+- _Where we want to go_ (Jan)
+
+  This section will propose ways to further the development of interdisciplinary engineering communities.
 
 ## How will you deal with varying numbers of participants in your session?
 
