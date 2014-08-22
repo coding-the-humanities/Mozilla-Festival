@@ -18,7 +18,7 @@ inform each other to produce more effective and creative solutions to both teach
 - _Introduction to Coding for the Humanities program_ (Jan)
 - _Introduction to Digital Wesleyan and Flatiron School programs_ (Ashley)
 
-- Towards a more technical humanities student (Jan)
+- _Towards a more technical humanities student_ (Jan)
   
   This section will explore the unique characteristics of a humanities student, their specific strengths and weaknesses, and the implications there in for pedagological approaches to teaching programming. 
 
