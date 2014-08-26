@@ -21,13 +21,12 @@ them excellent programmers. This fact by now has been acknowled by the software 
 but is almost completely ignored by the education system. Here coding is still 
 located in the STEM departments and taught as a computational skill.
 
-The talk will conclude with a discussion of how the discipline of computer
-science and that of the humanities can inform each other to produce more 
-effective and creative solutions to both teaching abstractions and 
-developing abstractions. As well as exploring the tools and methods needed 
-to progress these innovations.
+The talk will conclude with a workshop where participants will collaborate on
+curriculum modules focused specifically on facilitaitign the computational answering humanities questions, as well as teaching students with a humanities background.
 
 ## How do you see that working?
+
+### Presentation
 
 - _Introduction to Coding for the Humanities program_ (Jan Hein)
 
@@ -51,19 +50,21 @@ to progress these innovations.
   This section will propose ways to further the development of interdisciplinary engineering communities. It will focus on the ramifications that the emergence of these new types students / engineers have on education. Central to
   this approach is the idea that coding blurs the line between learning and research. We propose that education (technical as well as non-technical) capitalizes on this potential. However, in order to do so, we need more and better tools, libraries, and methods to facilitate these researchers.
 
+###Curriculum Building Workshop
+
 ## How will you deal with varying numbers of participants in your session?
 
-*5 participants* - a short presentation followed by a group discussion 
+*5 participants* - a short presentation followed by a group discussion and workshop 
 
-*15 participants* - a short presentation followed by a group discussion
+*15 participants* - a short presentation followed by a group discussion and workshop
 
-*50 participants* - a longer presentation followed by a Q&A session
+*50 participants* - a longer presentation followed by a Q&A session and workshop
 
 ## What do you see as outcomes after the festival? How will you and your participants take the learning and activities forward? 
 
 Ideally, participants in this session will be imbued with a greater understanding of how the humanities can influence developer and engineering communites. This understanding should inspire and encourage them to diversify their communities and pursuits, as well as evangelize such diversification. Specific examples could be getting involved with local universities' humanities programs, starting interdisciplinary conferences, journals and meetups, and building open source curriculum targeted at people with humanities backgrounds.
 
-The Coding the Humanities platform is offering support in setting up such activities and will provide a repository for these open source curricula and custom tools.
+The Coding the Humanities platform is offering support in setting up such activities and will provide a repository for these open source curricula and custom tools. The workshop portion of this session will see the continued development of these tools.
 
 
 ## Theme
