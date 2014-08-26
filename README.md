@@ -26,31 +26,30 @@ curriculum modules focused specifically on facilitaitign the computational answe
 
 ## How do you see that working?
 
-### Presentation
+- ### Presentation
 
-- _Introduction to Coding for the Humanities program_ (Jan Hein)
+  - _Introduction to Coding for the Humanities program_ (Jan Hein)
 
-- _Introduction to Digital Wesleyan and Flatiron School programs_ (Ashley)
+  - _Introduction to Digital Wesleyan and Flatiron School programs_ (Ashley)
 
-- _Towards a more technical humanities student_ (Jan Hein)
+  - _Towards a more technical humanities student_ (Jan Hein)
   
-  This section will explore the unique characteristics of a humanities student, their specific strengths and weaknesses. 
+    This section will explore the unique characteristics of a humanities student, their specific strengths and weaknesses. 
 
-- _Towards a more interdisciplinary engineer_ (Ashley)
+  - _Towards a more interdisciplinary engineer_ (Ashley)
 
-  This section will explore how thought-leaders from the humanities and sciences can and should influence engineering tools, workflows, and communities.
+    This section will explore how thought-leaders from the humanities and sciences can and should influence engineering tools, workflows, and communities.
   
   
-- _Where we are now_ (Ashley)
+  - _Where we are now_ (Ashley)
 
-  This section will survey a sample of current approaches to teaching programming and will critically engage with their effectiveness for certain types of communities.
+    This section will survey a sample of current approaches to teaching programming and will critically engage with their effectiveness for certain types of communities.
 
-- _Where we want to go_ (Jan Hein)
+  - _Where we want to go_ (Jan Hein)
 
-  This section will propose ways to further the development of interdisciplinary engineering communities. It will focus on the ramifications that the emergence of these new types students / engineers have on education. Central to
-  this approach is the idea that coding blurs the line between learning and research. We propose that education (technical as well as non-technical) capitalizes on this potential. However, in order to do so, we need more and better tools, libraries, and methods to facilitate these researchers.
+    This section will propose ways to further the development of interdisciplinary engineering communities. It will focus on the ramifications that the emergence of these new types students / engineers have on education. Central to this approach is the idea that coding blurs the line between learning and research. We propose that education (technical as well as non-technical) capitalizes on this potential. However, in order to do so, we need more and better tools, libraries, and methods to facilitate these researchers.
 
-###Curriculum Building Workshop
+- ###Curriculum Building Workshop
 
 ## How will you deal with varying numbers of participants in your session?
 
